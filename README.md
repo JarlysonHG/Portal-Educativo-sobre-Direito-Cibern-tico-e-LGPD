@@ -102,17 +102,20 @@
    ```
 
  **Appointment**:
-    ```html
+   
+    
     <section class="appointment">
         <div class="container">
             <!-- ... -->
         </div>
     </section>
     <!-- End Appointment -->
-    ```
+    
+ 
 
  **Footer Area**:
-    ```html
+    
+    
     <footer id="footer" class="footer">
         <div class="footer-top">
             <div class="container">
@@ -128,4 +131,4 @@
         <!-- End Copyright -->
     </footer>
     <!-- End Footer Area -->
-    ```
+   
